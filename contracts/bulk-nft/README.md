@@ -21,6 +21,4 @@ interface BulkNonFungibleToken /* is ERC721, IERC5679Ext721 */ {
 
 ## Standard Interface Used
 * [ERC-721](https://eips.ethereum.org/EIPS/eip-721)
-* [ERC-5679#
-* ls
-* ](https://eips.ethereum.org/EIPS/eip-5679)
+* [ERC-5679#IERC5679Ext721](https://eips.ethereum.org/EIPS/eip-5679)
